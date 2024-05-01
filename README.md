@@ -8,13 +8,13 @@ Este projeto utiliza o Amazon CodeWhisperer para criar endpoints em uma aplicaç
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu_usuario/seu_projeto.git
+   git clone https://github.com/michellepachecoweb/portifolio-amazon-codewhisperer.git
    ```
 
 2. Instale as dependências:
 
    ```bash
-   npm install
+   yarn install
    ```
 
 ### Uso
@@ -22,7 +22,7 @@ Este projeto utiliza o Amazon CodeWhisperer para criar endpoints em uma aplicaç
 1. Inicie o servidor:
 
    ```bash
-   npm start
+   yarn start
    ```
 
 2. Use os seguintes endpoints:
